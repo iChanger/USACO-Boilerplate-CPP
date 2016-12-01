@@ -15,7 +15,7 @@
 #include <queue>
 #include <map>
 //This is typically for Gold and Higher, and you still need to select carefully. They will use weirder data structures as seen here
-//WARNING: Only select what you need - too many #include will slow the compiler - slowing your code. Only add necessary libraries
+//WARNING: Only select what you need - too many #include will slow the compiler - slowing your code. Only add necessary libraries. You should not add every single library here and expect to remove some if not needed.
 
 using namespace std; //If you have conflicting methods, remove this
 int main() {
